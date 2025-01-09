@@ -7,6 +7,7 @@ class TestPluginCanHandleUrlFoxTR(PluginCanHandleUrl):
 
     should_match = [
         "https://www.nowtv.com.tr/canli-yayin",
+        "http://www.nowtv.com.tr/canli-yayin",
         "https://www.nowtv.com.tr/now-haber",
         "https://www.nowtv.com.tr/yayin-akisi",
         "https://www.nowtv.com.tr/Gaddar/bolumler",
